@@ -194,8 +194,11 @@ Jetfire requires at least iOS 5/OSX 10.7 or above.
 
 ## TODOs
 
-- [ ] Complete Docs
-- [ ] Add Unit Tests
+- [ ] Complete Docs;
+- [ ] Add Unit Tests;
+- [ ] Add a timeout logic when connect to server;
+- [ ] Add ping/pong delegate methods to monitor the connection of WebSocket;
+- [ ] Add disconnect method when need, i.e: disconnect the connection when WebSocket connect to server timeout;
 
 ## License ##
 
